@@ -488,6 +488,10 @@ footer form .newsletter_submit_button{
     border:0px; 
     border-radius: 5px;
 }
+footer form .newsletter_submit_button:hover{
+    background-color: #748b41;
+    color:black;
+}
 /* body hr{
     background-color: black;
     height:0.5px; 
