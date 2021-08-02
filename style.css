@@ -49,7 +49,7 @@ header .top_bar p{
 
 }
 .submit_button{
-    background-image:url(../img/searchicon.png);
+    background-image:url(searchicon.png);
     position: absolute;
     right:5px;
     top: 1px;
